@@ -1,5 +1,3 @@
-
-import itertools
 from my_NN_framework import Neral_network
 from my_NN_framework.layer import Input_layer, NN_layer
 
